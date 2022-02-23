@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.midleBox {
+  background-color: #fff;
+  border-radius: 15px;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  box-shadow: 4px 4px 10px 0px #0000001e;
+}
+
+p {
+  font-family: "Viga", sans-serif;
+  font-size: 30px;
+}
